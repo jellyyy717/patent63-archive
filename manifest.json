@@ -1,0 +1,12 @@
+﻿{
+  "name": "63기 아카이브",
+  "short_name": "63기 아카이브",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eaf3fc",
+  "theme_color": "#3b2531",
+  "lang": "ko",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
